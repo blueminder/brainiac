@@ -1,0 +1,72 @@
+body
+{
+background-color: #C2BAFE;
+color: #000000;
+font-size: 12px;
+font-family: verdana, helvetica, geneva, arial, sans-serif;
+letter-spacing: +1; 
+}
+
+/* link formatting ... if you want to make them bold, add: "font-weight: bold;" */
+a:link {color: #025AED; text-decoration: none; letter-spacing: -1px}
+a:visited {color: #7892E2; text-decoration: none; letter-spacing: -1px}
+/* if you are cool, switch hover color to: E60073 */
+a:hover {color: #025AED; text-decoration: underline; letter-spacing: -1px}
+a:active {color: #2F28BD; text-decoration: none; letter-spacing: -1px}
+
+div.title
+{
+background-color: #E9E7F8;
+padding-left: 5px;
+color: #000000;
+font-family: verdana, helvetica, geneva, arial, sans-serif; 
+font-size: large;
+text-align: left;
+padding: 5px;
+}
+
+.entry
+{
+background-color: #E9E7F8;
+color: #000000;
+font-size: medium;
+text-align: left;
+font-family: verdana, helvetica, geneva, arial, sans-serif; 
+padding: 5px;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-left: 13px;
+margin-right: 13px;
+}
+
+h1 {
+margin-left: 15px;
+}
+
+div.top {
+vertical-align: center;
+margin: 0 0 0 0;
+padding: 6px 10px 6px 4px;
+color: #E9E7F8;
+background-color: #44c;
+}
+
+div.top a, div.top a:visited, div.top a:hover, div.top a:active {
+font-size: x-small;
+color: #E9E7F8;
+font-weight: bold;
+}
+
+body {
+margin: 0 0 0 0;
+}
+
+/* background color for entrydate... should ideally end up showing a small strip at bottom of entry */
+div.entrydate 
+{
+background-color: #D7D4F2; 
+font-size: small;
+font-style: italic;
+color: #000000;
+font-family: verdana, helvetica, geneva, arial, sans-serif; 
+}

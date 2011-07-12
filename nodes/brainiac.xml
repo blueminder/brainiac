@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<node>
+	<title>brainiac</title>
+	<entries>
+		<entry>
+			<date>03/07/08</date>
+			<body> Brainiac is a super special awesome way to express yourself on the web.&lt;br /&gt;&lt;br /&gt;When you have a random thought that just isn't cut out for your emo-tastic LiveJournal, or you don't feel like wasting everyone else's time and yours with a random entry on twitter, Brainiac is there to connect just what's on your mind together into a web of interconnected ideas in an effort to &lt;i&gt;&lt;small&gt;defeat that boy scout Kal-El&lt;/small&gt;&lt;/i&gt;&lt;b&gt;*ahem*&lt;/b&gt; to present a creative way to express your ideas that hasn't been done to death with all those trendy web applications everyone and their mother has heard about.&lt;br /&gt;&lt;br /&gt;That is, at least for now, before everyone catches on to just how cool this application is &lt;i&gt;&lt;small&gt;so I may collect all the information this planet has to provide and destroy this wretched species!&lt;/small&gt;&lt;/i&gt;</body>
+		</entry>
+		<entry>
+			<body> This here program is made with 90% home-grown PHP and SVG hacking with a little bit of JavaScript on the side. Use of &lt;a href="http://jquery.com/demo/thickbox/"&gt;&lt;img src="external_link.gif" border="0" /&gt;Thickbox&lt;/a&gt; and the fancy rich text forms provided by the wonderful &lt;a href="http://www.fckeditor.net/"&gt;&lt;img src="external_link.gif" border="0" /&gt;FCKEditor&lt;/a&gt; prevented this from being 100% home-grown, but we're still damn proud of what we've got.&lt;br /&gt;&lt;br /&gt; Brainiac is licensed under the GNU GPL.</body>
+			<date>03/07/08</date>
+		</entry>
+	</entries>
+</node>

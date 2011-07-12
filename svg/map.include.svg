@@ -1,0 +1,33 @@
+<?php echo '<?xml version="1.0" standalone="no"?>'; ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="<?php echo $SVGwidth; ?>" height="<?php echo $SVGheight; ?>" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+<script type="text/ecmascript"><![CDATA[
+
+function hoverIn(node) {
+    window.document.getElementById(node+'-circle').style['fill-opacity']='1.0';
+    var lines = window.document.getElementById(node+'-lines').childNodes;
+    for (i = 0; i < lines.length; ++i) {
+        if (lines[i].nodeType == 1) {
+            lines[i].style['stroke-opacity'] = '0.45';
+        }
+    }
+}
+
+function hoverOut(node) {
+    window.document.getElementById(node+'-circle').style['fill-opacity']='0.75';
+    var lines = window.document.getElementById(node+'-lines').childNodes;
+    for (i = 0; i < lines.length; ++i) {
+        if (lines[i].nodeType == 1) {
+            lines[i].style['stroke-opacity'] = '0.2';
+        }
+    }
+}
+
+function goToPage(node) {
+    parent.top.location = 'http://enriquesantos.net/sb/brainiac/'+node;
+}
+
+]]></script>
+
