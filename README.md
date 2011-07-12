@@ -1,5 +1,9 @@
 # Brainiac
 
+Engine for exploratory writing online written in PHP and using flat files for data storage.
+
+## About
+
 **Brainiac** acts almost as a "forced wiki", by cross-referencing written articles and automatically linking to them as the user navigates your site. In addition to this, the software also dynamically generates graphs in SVG detailing the relationships between the author's written articles and how often they are called by others.
 
 Where microblogging has created a way for people to share their stream-of-consciousness in a linear fashion, the main idea behind **Brainiac** is allowing someone to view a 'snapshot' of somebody's thoughts at the time of site visitation. Not only can the visitor read about an author's thoughts about any topic, large or small, but they can also see where those thoughts fit in the bigger picture you wish to convey.
