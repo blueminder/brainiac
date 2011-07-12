@@ -10,12 +10,12 @@ The original inspiration for **Brainiac** came from Sam Ward's sspeeps, and its 
 
 ## Known Issues
 
-At the time of writing, the SVG visualizations only work in Mozilla Firefox. It seems as if Google Chrome does not have native SVG support available.
+At the time of writing, the SVG visualizations only work in Mozilla Firefox. It seems as if Google Chrome does not have native SVG support available at this time.
 
 ## TODO
 
-Minor UI Tweaks (Mostly AJAXification of editing controls and updates)
-Interpeeps Support (http://thestormsurfer.livejournal.com/49436.html)
+- Minor UI Tweaks (Mostly AJAXification of editing controls and updates)
+- Interpeeps Support (http://thestormsurfer.livejournal.com/49436.html)
 
 Copyright &copy; 2008-2011 Enrique Santos, David Hollis<br />
 This program is released under the terms of the GNU General Public License v3.0
